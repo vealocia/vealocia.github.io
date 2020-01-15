@@ -1,0 +1,8 @@
+*.DS_Store
+.idea/
+.jekyll-cache/
+*.un~*
+
+node_modules
+
+_site/
